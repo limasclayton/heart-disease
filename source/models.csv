@@ -1,0 +1,5 @@
+model," selected_features",details," train_score"," test_score"," parameters"
+Logistic Regression,"features_1",test_size=0.1,"0.86","0.903","{'classifier__solver': 'liblinear', 'classifier__random_state': 42, 'classifier__penalty': 'l1', 'classifier__max_iter': 150, 'classifier__C': 0.07847599703514611}"
+Logistic Regression,"features_1",test_size=0.2,"0.855","0.852","{'classifier__solver': 'liblinear', 'classifier__random_state': 42, 'classifier__penalty': 'l1', 'classifier__max_iter': 150, 'classifier__C': 0.07847599703514611}"
+Logistic Regression,"All",test_size=0.1,"0.864","0.871","{'classifier__solver': 'liblinear', 'classifier__random_state': 42, 'classifier__penalty': 'l1', 'classifier__max_iter': 150, 'classifier__C': 0.3359818286283781}"
+Logistic Regression,"features_2",test_size=0.1,"0.86","0.871","{'classifier__solver': 'liblinear', 'classifier__random_state': 42, 'classifier__penalty': 'l1', 'classifier__max_iter': 150, 'classifier__C': 0.3359818286283781}"
